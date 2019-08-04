@@ -16,7 +16,7 @@ header：
 ![](image/header.png)
 
 payload类型
-![](image/payloadtype)
+![](image/payloadtype.png)
 
 
 
